@@ -20,3 +20,6 @@ If your total is more than or equal to (win), return 'Winner!'. Else return 'Los
 All inputs will be in the correct format. 
 Strings on tickets are not always the same length.
 */
+
+
+// Solution
