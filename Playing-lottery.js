@@ -31,3 +31,5 @@ function bingo(ticket, win){
   }
   return "Loser!";
 }
+
+// or
